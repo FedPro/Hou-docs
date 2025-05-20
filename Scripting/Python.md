@@ -56,3 +56,10 @@ A curated list of official SideFX documentation for Houdini’s Python API: `hou
   How to use HOM from the command line or scripts.
 
 ---
+
+## 🔍 Python Examples
+
+- [📘 Python Examples – Panels and Tools](https://www.sidefx.com/docs/houdini/examples/python_panels/index.html)  
+  Explore working Python scripts that demonstrate how to build custom panels and user interfaces in Houdini.
+
+---
