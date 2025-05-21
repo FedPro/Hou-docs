@@ -1,33 +1,20 @@
-# 🧪 Houdini Node Examples Bookmarks
+# 🧪 Houdini Node Example Files
 
-A list of official SideFX documentation links to example files and use cases for different Houdini node contexts.
+SideFX provides real example files (.otl, .hda) that are organized by category and demonstrate practical usage of specific nodes. These examples are incredibly helpful for learning and reference.
 
----
+## 📁 File Location (Windows)
+C:\Program Files\Side Effects Software\Houdini 20.5.xxx\houdini\help\examples\nodes
 
-## 🧱 SOP – Geometry Node Examples
+## 📁 File Location (Linux)
+/opt/hfs20.5.xxx/houdini/help/examples/nodes
 
-- [SOP Node Examples](https://www.sidefx.com/docs/houdini/examples/nodes/sop/index.html)  
-  Learn how to use SOPs for modeling, procedural geometry, and more.
+> 💡 Replace `20.5.xxx` with your installed Houdini version.
 
----
+## 📚 How to Access Example Files
 
-## 🎚️ CHOP – Channel Operator Examples
-
-- [CHOP Node Examples](https://www.sidefx.com/docs/houdini/examples/nodes/chop/index.html)  
-  Explore how to work with motion, audio, and time-based data using CHOPs.
-
----
-
-## 🌪️ DOP – Dynamics Node Examples
-
-- [DOP Node Examples](https://www.sidefx.com/docs/houdini/examples/nodes/dop/index.html)  
-  Simulation examples including fluids, particles, rigid bodies, and more.
-
----
-
-## 🎥 LOP – Solaris (USD) Node Examples
-
-- [LOP Node Examples](https://www.sidefx.com/docs/houdini/examples/nodes/lop/index.html)  
-  Examples for layout, lighting, and USD workflows in Solaris.
-
+- These example files are tied to individual nodes and contain ready-to-use Houdini scenes.
+- You can load them directly from the **Houdini Help Browser**:
+  1. Press **F1** to open its help page (or Help tab > Contents).
+  2. Scroll the page until you find the link Examples.
+  3. Select a subtopic, then Load.
 ---
